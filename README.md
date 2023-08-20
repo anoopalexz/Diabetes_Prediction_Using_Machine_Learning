@@ -19,6 +19,6 @@ Attributes:
 	Blood Glucose Level: Elevated blood glucose levels are indicative of diabetes risk.
 	Diabetes: The target variable indicating the presence or absence of diabetes.
 
-Methodology
+Methodology:
 	Data preprocessing involved handling missing values, feature scaling, and encoding categorical variables.
 	Various classification algorithms were explored.
